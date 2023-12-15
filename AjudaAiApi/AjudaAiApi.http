@@ -1,0 +1,6 @@
+@AjudaAiApi_HostAddress = http://localhost:5118
+
+GET {{AjudaAiApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
